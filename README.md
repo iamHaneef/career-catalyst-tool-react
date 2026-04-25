@@ -1,22 +1,34 @@
-# Career Catalyst Tool (React)
+# Resume Builder (React)
 
-A React-based web application for managing and generating career-related information such as personal details, education, work experience, projects, skills, and achievements.
+## 📌 Overview
+
+A React-based web application that allows users to create and manage structured resume data including personal details, education, work experience, projects, skills, and achievements.
+
+This project focuses on component-based architecture and dynamic form handling.
 
 ---
 
-## Features
+## ⚡ Features
 
 - Dynamic form-based data input  
 - Multiple sections (personal, education, experience, etc.)  
-- Structured UI for career/resume information  
-- Built using React for component-based architecture  
+- Structured resume data management  
+- Component-based UI using React  
 
 ---
 
-## Project Structure
+## 🛠️ Tech Stack
+
+- React.js  
+- JavaScript  
+- CSS  
+
+---
+
+## 📂 Project Structure
 
 ```bash
-career-catalyst-tool-react/
+resume-builder-react/
 │
 ├── public/
 │   └── index.html
@@ -29,3 +41,10 @@ career-catalyst-tool-react/
 │
 ├── package.json
 └── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+> Run `npm install` and start the application using `npm start`.
